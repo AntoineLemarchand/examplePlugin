@@ -1,3 +1,4 @@
+# Ce repo est archive, Il se trouve maintenant sur la page [ITSM-NG](https://github.com/itsmng/examplePlugin)
 # Développer un plugin ITSM-NG1.5
 
 ITSM-NG est doté d'un puissant moteur de plugin qui permet de modifier la majorité des pages du logiciel et d'en créer.
