@@ -68,4 +68,4 @@ les droit de modifications a celui qui installe le plugin, qu'il peut alors gér
 
 ## Traduction
 Les fichiers de traductions sont dans des fichiers `.mo` `.po` et `.pot`
-Cette partie peut être (automatisé avec Poedit)[https://www.pontikis.net/blog/php-javascript-internationalization-gettext-poedit] 
+Cette partie peut être [automatisé avec Poedit](https://www.pontikis.net/blog/php-javascript-internationalization-gettext-poedit)
